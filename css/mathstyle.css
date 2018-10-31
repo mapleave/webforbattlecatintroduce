@@ -1,0 +1,46 @@
+#header {height:90px; text-align:center; padding:1em}
+.column_edge1 {float: left; width: 20%; text-align:center;}
+.column_mid {float: left; width: 60%; text-align:center;}
+.column_edge2 {float: left; width: 20%; text-align:center;}
+#footer {clear:both; text-align:center; padding:1em}
+p.uppercase {text-transform:uppercase;}
+p.lowercase {text-transform:lowercase;}
+p.capitalize {text-transform:capitalize;}
+body {
+	background-color:#ffcc66;
+	text-align:center;
+}
+
+h1 {
+	color:brown;
+	text-align:center;
+	font-size:2.25em;
+	text-shadow: 2px 2px 5px red;
+}
+
+h2 {
+	text-align:center;
+	font-size:2.2em;
+}
+
+h3 {
+	text-align:center;
+	font-size:25px;
+}
+
+p {
+	text-align:center;
+	font-family:"Times New Roman";
+	font-size:1.80em;
+	line-height:2.5;
+}
+
+a {
+	font-size:2.2em;
+	line-height:1.5;
+}
+
+img {
+	max-width:100%;
+	height:auto;
+}
